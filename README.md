@@ -7,6 +7,8 @@ Here's the sepcific bounties offered by data.govt.nz and the Department of Inter
 
 You can select these when you register your project in the [GovHack Hackerspace](https://2017.hackerspace.govhack.org)
 
+![](select-awards.png)
+
 ## "Eyes on APIs"	
 
 What does a digital service from government look like when powered by APIs and open data? 
