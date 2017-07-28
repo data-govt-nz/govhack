@@ -13,7 +13,7 @@ Reimagine a citizen's interaction with government that might require a cross-age
 
 For example, registering a birth, applying for the childs IRD number and getting them a passport at the same time!
 
-### Criteria for entry: 
+### Criteria for entry 
 Use at least one data API from data.govt.nz to rethink a government online service for citizens.
 
 You might like to make use of the experimental government services register at [https://catalogue.data.govt.nz/dataset/lab-experimental-government-service-registers](https://catalogue.data.govt.nz/dataset/lab-experimental-government-service-registers)
@@ -24,6 +24,7 @@ How does interaction with government change in the future with the rise of techn
 
 Reimagine an interaction with government that makes use of one of these emerging technologies and demonstrate the changes government might need to make to move towards this future.
 
+### Criteria for entry
 Demonstrate a common citizen interaction with government like getting a passport/finding out your cizitenship status using an emerging technology such as voice search, automated chatbots, AI, VR or AR (or a combination of!).
 
 
