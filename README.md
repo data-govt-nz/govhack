@@ -3,7 +3,7 @@ All the bounties and prizes are listed at:
 
 [https://docs.google.com/spreadsheets/d/1LxOXA7jNm7JWp0oJ5C6NsviPuEaPqJrsV-zznaI2dFY/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1LxOXA7jNm7JWp0oJ5C6NsviPuEaPqJrsV-zznaI2dFY/edit?usp=sharing)
 
-Here's the sepcific bounties offered by data.govt.nz and the Department of Internal Affairs this year (2017).
+Here's the specific bounties offered by data.govt.nz and the Department of Internal Affairs this year (2017).
 
 You can select these when you register your project in the [GovHack Hackerspace](https://2017.hackerspace.govhack.org)
 
